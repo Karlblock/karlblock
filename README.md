@@ -1,49 +1,70 @@
-<h1 align="center">Salut, moi c’est Karl 👋</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karlblock/karlblock/main/assets/banner.png" alt="karlblock banner" />
+</p>
+
+<h1 align="center">Yo, moi c’est Karl 👋</h1>
 
 <p align="center">
-  🧠 Créateur d’outils open source pour les DevOps, SecOps et l’automatisation IA
+  Je bricole des outils DevSecOps, j’automatise ce qui m’énerve, et je publie ce qui peut servir à d’autres.
   <br />
-  🚀 En mission : rendre la cybersécurité et l’IT plus accessibles et intelligentes
+  Pas de promesses, juste du code, des tests, et parfois des trucs utiles 😄
 </p>
-
----
-
-### 🚧 En cours
-
-- 🔍 Agent IA de détection de CVE enrichi (`agent_cve_v3`)
-- 📦 `gopush` — outil CLI pour déployer rapidement vos projets GitHub
-- 🛡️ Développement d’un SOC externalisé pour PME/ETI
-- 🧠 Formation IA appliquée à la cybersécurité et à l’infrastructure
-
----
-
-### 🔧 Outils & Langages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=flat&logo=proxmox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Zscaler](https://img.shields.io/badge/Zscaler-0B93F6?style=flat&logo=zscaler&logoColor=white)
-
----
-
-### 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karlblock&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karlblock&layout=compact&theme=radical" height="160"/>
+  <img src="https://komarev.com/ghpvc/?username=Karlblock&style=flat&color=blue" alt="Compteur de visiteurs" />
 </p>
 
 ---
 
-### 📬 Me suivre
+## ⚙️ Ce que je taffe en ce moment
 
-- 🐦 [Twitter / X](https://x.com/_Error_503_)
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/karlblock)
+- 🤖 [`agent_cve_v3`](https://github.com/Karlblock/agent-cve-v3) → analyse auto des CVE avec un peu d’IA dedans
+- 🚀 [`gopush`](https://github.com/Karlblock/gopush) → outil CLI pour pousser des projets vite et bien
+- 🌐 Une app web pour suivre ses audits RSE/RSSI et faire des trucs sérieux (mais simples)
 
 ---
 
-> ⚒️ *Ce profil est vivant. Je publie régulièrement mes outils, idées et expérimentations IA + cybersécurité.*
+## 🎬 Petit aperçu de `gopush`
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karlblock/karlblock/main/assets/gopush_demo.gif" alt="gopush demo" width="600" />
+</p>
 
+---
+
+## 🧰 Ce que j’utilise souvent
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Proxmox](https://img.shields.io/badge/-Proxmox-000000?logo=proxmox&logoColor=white&style=flat)
+![Zscaler](https://img.shields.io/badge/-Zscaler-0B93F6?logo=zscaler&logoColor=white&style=flat)
+
+---
+
+## 📊 Stats (parce que pourquoi pas)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karlblock&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karlblock&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📬 Me suivre ou dire bonjour
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/karlblock)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/...)
+☕ [Buy Me a Coffee](https://www.buymeacoffee.com/karlblock)
+
+---
+
+## 🤝 Tu veux contribuer ou juste papoter ?
+
+Ouvre une issue, envoie un message, ou fork un truc.  
+Y’a toujours de la place pour échanger et construire mieux ensemble.
+
+---
+
+> 🧪 Work in progress. Café + terminal + bonne humeur.
