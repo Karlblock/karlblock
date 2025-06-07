@@ -39,8 +39,7 @@
 
 ### 📬 Me suivre
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/karlblock)
-- 🐦 [Twitter / X](https://twitter.com/ton_handle)
+- 🐦 [Twitter / X](https://x.com/_Error_503_)
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/karlblock)
 
 ---
