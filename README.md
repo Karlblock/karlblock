@@ -1,44 +1,34 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Karlblock/karlblock/main/assets/banner.png" alt="karlblock banner" />
-</p>
-
-# 👋 Salut, moi c’est Karl
-
-🧠 Créateur d’outils DevSecOps, IA et cybersécurité.  
-🎯 Ma mission : automatiser, sécuriser et simplifier l'infrastructure IT pour tous.
-
-![Visiteurs](https://komarev.com/ghpvc/?username=Karlblock&style=flat&color=blue)
-
----
-
-## 🚀 Projets récents
-
-- 🧠 [`agent_cve_v3`](https://github.com/Karlblock/agent-cve-v3) – Agent IA pour l’analyse automatisée de vulnérabilités CVE
-- 📦 [`gopush`](https://github.com/Karlblock/gopush) – Outil CLI pour automatiser les pushes GitHub avec style
-- 📊 Audit & RSE/RSSI App – App web pour suivre la performance sociétale et cybersécurité
-
----
-
-## 📸 Démo rapide de `gopush`
+<h1 align="center">Salut, moi c’est Karl 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Karlblock/karlblock/main/assets/gopush_demo.gif" alt="gopush demo" width="600" />
+  🧠 Créateur d’outils open source pour les DevOps, SecOps et l’automatisation IA
+  <br />
+  🚀 En mission : rendre la cybersécurité et l’IT plus accessibles et intelligentes
 </p>
 
 ---
 
-## 🧰 Stack & Outils
+### 🚧 En cours
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Proxmox](https://img.shields.io/badge/-Proxmox-000000?logo=proxmox&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Zscaler](https://img.shields.io/badge/-Zscaler-0B93F6?logo=zscaler&logoColor=white&style=flat)
+- 🔍 Agent IA de détection de CVE enrichi (`agent_cve_v3`)
+- 📦 `gopush` — outil CLI pour déployer rapidement vos projets GitHub
+- 🛡️ Développement d’un SOC externalisé pour PME/ETI
+- 🧠 Formation IA appliquée à la cybersécurité et à l’infrastructure
 
 ---
 
-## 📊 GitHub Stats
+### 🔧 Outils & Langages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=flat&logo=proxmox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Zscaler](https://img.shields.io/badge/Zscaler-0B93F6?style=flat&logo=zscaler&logoColor=white)
+
+---
+
+### 📊 Stats GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karlblock&show_icons=true&theme=radical" height="160" />
@@ -47,19 +37,13 @@
 
 ---
 
-## 📬 Me contacter
+### 📬 Me suivre
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/karlblock)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/...)  
-☕ [Buy Me a Coffee](https://www.buymeacoffee.com/karlblock)
-
----
-
-## 🙌 Contribuer
-
-Tu veux contribuer à mes projets ou collaborer ?  
-→ **Fork un repo, ouvre une PR, ou envoie-moi un DM.**
+- 🐦 [Twitter / X](https://x.com/_Error_503_)
+- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/karlblock)
 
 ---
 
-> 🧠 *Powered by café, terminal et curiosité. Tous les outils ici sont pensés pour aider la communauté IT à aller plus loin.*
+> ⚒️ *Ce profil est vivant. Je publie régulièrement mes outils, idées et expérimentations IA + cybersécurité.*
+
+
