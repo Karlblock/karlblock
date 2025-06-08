@@ -19,7 +19,7 @@
 ## ⚙️ Ce que je taffe en ce moment
 
 - 🤖 [`agent_cve_v3`](https://github.com/Karlblock/agent-cve-v3) → analyse auto des CVE avec un peu d’IA dedans
-- 🚀 [`gopush`](https://github.com/Karlblock/gopush) → outil CLI pour pousser des projets vite et bien
+- 🚀 [`gitpush`](https://github.com/Karlblock/gitpush) → outil CLI pour pousser des projets vite et bien
 - 🌐 Une app web pour suivre ses audits RSE/RSSI et faire des trucs sérieux (mais simples)
 
 ---
