@@ -45,9 +45,12 @@
 
 ## 📬 Me suivre ou dire bonjour
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/...)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.gg/Pbd4eR7PUX)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-☕-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/karlblock)
+<p align="center">
+  <a href="https://twitter.com/..."><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat" /></a>
+  <a href="https://discord.gg/Pbd4eR7PUX"><img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white&style=flat" /></a>
+  <a href="https://www.buymeacoffee.com/karlblock"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-☕-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" /></a>
+</p>
+
 
 ---
 
@@ -57,5 +60,8 @@ Fork, issue, message... Peu importe la porte d’entrée : y’a toujours de la 
 **Construisons des trucs utiles, à notre façon.**
 
 ---
+---
+<p align="center">
+  ⚡ Powered by Linux, café noir & shell scripts – 2025 · Karlblock
+</p>
 
-> 🧪 *Work in progress*. Café + terminal + bonne humeur.
