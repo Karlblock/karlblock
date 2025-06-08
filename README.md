@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Karlblock/karlblock/main/assets/banner.png" alt="karlblock banner" />
 </p>
 
-<h1 align="center">Yo, moi c’est Karl 👋</h1>
+<h1 align="center">Welcome / Bienvenu </h1>
 
 <p align="center">
   Je bricole des outils DevSecOps, j’automatise ce qui m’énerve, et je publie ce qui peut servir à d’autres.
