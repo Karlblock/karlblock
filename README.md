@@ -30,8 +30,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-000000?logo=proxmox&logoColor=white&style=flat)
-![Zscaler](https://img.shields.io/badge/-Zscaler-0B93F6?logo=zscaler&logoColor=white&style=flat)
-
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)
+![Metasploit](https://img.shields.io/badge/-Metasploit-000000?logo=metasploit&logoColor=white&style=flat)
 ---
 
 ## 📊 Stats GitHub
