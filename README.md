@@ -32,6 +32,8 @@
 ![Proxmox](https://img.shields.io/badge/-Proxmox-000000?logo=proxmox&logoColor=white&style=flat)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-000000?logo=metasploit&logoColor=white&style=flat)
+![Exegol](https://img.shields.io/badge/-Exegol-6528B5?style=flat&logo=linux&logoColor=white)
+
 ---
 
 ## 📊 Stats GitHub
