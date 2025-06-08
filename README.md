@@ -24,10 +24,10 @@
 
 ---
 
-## 🎬 Petit aperçu de `gopush`
+## 🎬 Petit aperçu de `gitpush`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Karlblock/karlblock/main/assets/gopush_demo.gif" alt="gopush demo" width="600" />
+  <img src="https://raw.githubusercontent.com/Karlblock/karlblock/main/assets/gitpush_demo.gif" alt="gitpush demo" width="600" />
 </p>
 
 ---
