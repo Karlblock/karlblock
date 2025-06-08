@@ -24,14 +24,6 @@
 
 ---
 
-## 🎬 Petit aperçu de `gitpush`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Karlblock/karlblock/main/assets/gitpush_demo.gif" alt="gitpush demo" width="600" />
-</p>
-
----
-
 ## 🧰 Ce que j’utilise souvent
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
