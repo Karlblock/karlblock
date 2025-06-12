@@ -15,7 +15,7 @@
 
 ---
 
-## ⚙️ Ce sur quoi je taffe en ce moment
+## ⚙️ Les petits projets en cours : 
 
 
 ### 🎓 Ma formation IT
