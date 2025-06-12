@@ -15,27 +15,24 @@
 
 ---
 
-## ⚙️ Les petits projets en cours : 
-
+## ⚙️ Les petits projets en cours
 
 ### 🎓 Ma formation IT
 
 - 📚 [`IT_Formation`](https://github.com/Karlblock/IT_Formation) — mon parcours de formation en IT, DevSecOps, réseau et automatisation.
-  - Cours & TP structurés par modules (infra, sécurité, DevOps…)
-  - Ressources pédagogiques en Markdown
-  - Exercices pratiques, scripts et environnement testable
+  - Modules structurés : infrastructure, cybersécurité, DevOps...
+  - Ressources en Markdown, TP pratiques, scripts testables
+  - Pensé pour être évolutif et collaboratif
 
 ---
 
-### Outils
+### 🛠️ Outils développés
 
-- 🚀 [`gitpush`](https://github.com/Karlblock/gitpush) – un outil CLI interactif pour push/tag/release automatiquement un projet Git.  
+- 🚀 [`gitpush`](https://github.com/Karlblock/gitpush) — un outil CLI interactif pour automatiser les push/tag/release Git  
+  ![GitHub release](https://img.shields.io/github/v/release/Karlblock/gitpush?style=flat&label=version&color=brightgreen)
 
-  ![GitHub release (latest by SemVer)](https://img.shields.io/github/v/release/Karlblock/gitpush?style=flat&label=version&color=brightgreen)
-
-- 🧠 [`Agent_News`](https://github.com/Karlblock/Agent_News) – un agent IA modulaire pour analyser automatiquement l’actualité de n’importe quel sujet (IA, PSG, politique…), avec envoi Discord/Telegram.  
-
-  ![GitHub release (latest by SemVer)](https://img.shields.io/github/v/release/Karlblock/Agent_News?style=flat&label=version&color=blue)
+- 🧠 [`Agent_News`](https://github.com/Karlblock/Agent_News) — un agent IA modulaire pour analyser automatiquement l’actualité (IA, PSG, politique...) et publier sur Discord/Telegram  
+  ![GitHub release](https://img.shields.io/github/v/release/Karlblock/Agent_News?style=flat&label=version&color=blue)
 
 ---
 
