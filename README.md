@@ -28,7 +28,7 @@
 
 ---
 
-## TOOLS
+## Outils
 
 - 🚀 [`gitpush`](https://github.com/Karlblock/gitpush) – un outil CLI interactif pour push/tag/release automatiquement un projet Git.  
 
