@@ -17,6 +17,17 @@
 
 ## ⚙️ Ce sur quoi je taffe en ce moment
 
+---
+
+## 🎓 Ma formation IT
+
+- 📚 [`IT_Formation`](https://github.com/Karlblock/IT_Formation) — mon parcours de formation en IT, DevSecOps, réseau et automatisation.
+  - Cours & TP structurés par modules (infra, sécurité, DevOps…)
+  - Ressources pédagogiques en Markdown
+  - Exercices pratiques, scripts et environnement testable
+
+---
+
 - 🚀 [`gitpush`](https://github.com/Karlblock/gitpush) – un outil CLI interactif pour push/tag/release automatiquement un projet Git.  
 
   ![GitHub release (latest by SemVer)](https://img.shields.io/github/v/release/Karlblock/gitpush?style=flat&label=version&color=brightgreen)
@@ -25,7 +36,7 @@
 
   ![GitHub release (latest by SemVer)](https://img.shields.io/github/v/release/Karlblock/Agent_News?style=flat&label=version&color=blue)
 
-
+- 🧠 [`Agent_News`](https://github.com/Karlblock/Agent_News) – un agent IA modulaire pour analyser automatiquement l’actualité de n’importe quel sujet (IA, PSG, politique…), avec envoi Discord/Telegram. 
 ---
 
 ## 🧰 Outils & Technos
