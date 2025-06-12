@@ -38,7 +38,6 @@
 
   ![GitHub release (latest by SemVer)](https://img.shields.io/github/v/release/Karlblock/Agent_News?style=flat&label=version&color=blue)
 
-- 🧠 [`Agent_News`](https://github.com/Karlblock/Agent_News) – un agent IA modulaire pour analyser automatiquement l’actualité de n’importe quel sujet (IA, PSG, politique…), avec envoi Discord/Telegram. 
 ---
 
 ## 🧰 Outils & Technos
