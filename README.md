@@ -17,9 +17,8 @@
 
 ## ⚙️ Ce sur quoi je taffe en ce moment
 
----
 
-## 🎓 Ma formation IT
+### 🎓 Ma formation IT
 
 - 📚 [`IT_Formation`](https://github.com/Karlblock/IT_Formation) — mon parcours de formation en IT, DevSecOps, réseau et automatisation.
   - Cours & TP structurés par modules (infra, sécurité, DevOps…)
@@ -28,7 +27,7 @@
 
 ---
 
-## Outils
+### Outils
 
 - 🚀 [`gitpush`](https://github.com/Karlblock/gitpush) – un outil CLI interactif pour push/tag/release automatiquement un projet Git.  
 
