@@ -1,7 +1,7 @@
 # CYBA - Cybersecurity Defense & Training
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Karlblock/karlblock/main/assets/Logov1.png" alt="CYBA Logo" width="300" />
+  <img src="https://raw.githubusercontent.com/Karlblock/karlblock/main/assets/Cyba-banniere.png" alt="CYBA Logo" width="300" />
 </p>
 
 <p align="center">
