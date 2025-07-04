@@ -1,16 +1,8 @@
 # CYBA - Cybersecurity Defense & Training
 
-```
-              ▀▄   ▄▀                                               
-             ▄█▀███▀█▄        ██████╗██╗   ██╗██████╗  █████╗      
-            █▀███████▀█      ██╔════╝╚██╗ ██╔╝██╔══██╗██╔══██╗     
-            ▀ ▀▄▄ ▄▄▀ ▀      ██║      ╚████╔╝ ██████╔╝███████║     
-          ▄▄▄██▄▄▄██▄▄▄      ██║       ╚██╔╝  ██╔══██╗██╔══██║     
-       ▄█▄█▀ ▄▄▄▄▄ ▀█▄█▄    ╚██████╗   ██║   ██████╔╝██║  ██║     
-       ▀▀████▄▄▄▄▄████▀▀      ╚═════╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝    
-          ▀▀▀▀▀▀▀▀▀▀                                               
-                              CYBER WARFARE DEFENSE COMMAND         
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karlblock/karlblock/main/assets/Logov1.png" alt="CYBA Logo" width="300" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CYBA-Cyber%20Warfare%20Defense-red?style=for-the-badge" alt="CYBA" />
