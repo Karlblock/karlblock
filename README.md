@@ -8,11 +8,10 @@
   <img src="https://img.shields.io/badge/CYBA-Cyber%20Warfare%20Defense-red?style=for-the-badge" alt="CYBA" />
 </p>
 
-<h1 align="center">Centre de Cyberdéfense & Formation</h1>
+
 
 <p align="center">
   <strong>DÉFENSE • FORMATION • AGENTS CYBERSEC</strong><br />
-  Protéger, Former, Automatiser - La cybersécurité au service de tous
 </p>
 
 <p align="center">
