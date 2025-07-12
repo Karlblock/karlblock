@@ -1,12 +1,4 @@
-# CYBA - Cybersecurity Defense & Training
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Karlblock/karlblock/main/assets/Cyba-banniere.png" alt="CYBA Logo" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CYBA-Cyber%20Warfare%20Defense-red?style=for-the-badge" alt="CYBA" />
-</p>
+# K@rlBl0ck
 
 
 
@@ -29,30 +21,6 @@
 - **Threat Intelligence** : Veille automatisée sur les menaces émergentes
 - **Incident Response** : Scripts et procédures pour la gestion d'incidents
 
-### Projets Défensifs
-- [`Agent_news`](https://github.com/Karlblock/Agent_news) — Agent IA de veille cybersécurité
-  - Analyse automatique des CVE et bulletins de sécurité
-  - Alertes temps réel sur Discord/Telegram
-  - Classification des menaces par criticité
-
----
-
-## FORMATION - Éducation Cybersécurité
-
-### Centre de Formation CYBA
-- [`IT_Formation`](https://github.com/Karlblock/IT_Formation) — Parcours complet cybersécurité
-  - **Module 1** : Fondamentaux réseau & Linux
-  - **Module 2** : Sécurité défensive (Firewall, IDS/IPS, SIEM)
-  - **Module 3** : Blue Team Operations
-  - **Module 4** : Incident Response & Forensics
-  - **Module 5** : Compliance & Gouvernance
-
-### Ressources Pédagogiques
-- Documentation technique en français
-- Labs pratiques avec environnements virtualisés
-- CTF orientés défense et protection
-
----
 
 ## AGENTS CYBERSEC - Automatisation Intelligente
 
