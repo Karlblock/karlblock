@@ -66,32 +66,5 @@
 
 ---
 
-## Rejoignez la Communauté CYBA
 
-<p align="center">
-  <a href="https://discord.gg/Pbd4eR7PUX"><img src="https://img.shields.io/badge/Discord-Communauté%20CYBA-5865F2?logo=discord&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/Karlblock"><img src="https://img.shields.io/badge/GitHub-Suivre-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:contact@cyba.defense"><img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-</p>
 
-### Collaboration & Partenariats
-- **Organisation** : TonoT Cyber Normandie
-- **Localisation** : Paris, France
-- **Missions** : Formation, Audit défensif, Développement d'outils
-- **Objectif** : Démocratiser la cybersécurité défensive
-
----
-
-## Roadmap 2025
-
-- [ ] Lancement de CYBA Academy - Plateforme de formation en ligne
-- [ ] Publication du CYBA Security Framework
-- [ ] Développement du SOC-as-a-Service pour PME
-- [ ] Certification CYBA Defender Level 1
-
----
-
-<p align="center">
-  <strong>Defending the Digital World, One Line at a Time</strong><br />
-  <sub>CYBA © 2025 - Cybersecurity for Everyone</sub>
-</p>
