@@ -1,7 +1,5 @@
 # K@rlBl0ck
 
-
-
 <p align="center">
   <strong>DÉFENSE • FORMATION • AGENTS CYBERSEC</strong><br />
 </p>
@@ -14,26 +12,13 @@
 
 ---
 
-## DÉFENSE - Protection Active
-
-### Outils de Cyberdéfense
-- **Détection & Response** : Développement d'outils de monitoring et d'analyse
-- **Threat Intelligence** : Veille automatisée sur les menaces émergentes
-- **Incident Response** : Scripts et procédures pour la gestion d'incidents
-
-
-## AGENTS CYBERSEC - Automatisation Intelligente
+## Tools :
 
 ### Outils d'Automatisation
 - [`gitpush`](https://github.com/Karlblock/gitpush) — Sécurisation des workflows Git
   - Analyse automatique du code avant commit
   - Détection de secrets et credentials
   - Intégration avec les pipelines CI/CD sécurisés
-
-### Projets en Développement
-- **CYBA-Scanner** : Scanner de vulnérabilités automatisé
-- **CYBA-Dashboard** : Tableau de bord unifié pour SOC
-- **CYBA-Toolkit** : Suite d'outils pour Blue Team
 
 ---
 
