@@ -1,4 +1,3 @@
-# K@rlBl0ck
 
 <p align="center">
   <strong>DÉFENSE • FORMATION • AGENTS CYBERSEC</strong><br />
@@ -13,9 +12,7 @@
 
 ---
 
-##  Projet Cyber :
-
-### Lab hack Caen - cybercaen.fr
+## Lab hack Caen - cybercaen.fr
 - [`LABHACKCAEN - CTF Plaform`](https://cybercaen.fr)
 > Resous les challenges dans l'ordre pour progresser !
 
