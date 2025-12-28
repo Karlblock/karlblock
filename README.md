@@ -10,7 +10,11 @@
 </p>
 
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3570777" style="border:none; width:100%; max-width:600px; height:300px;"></iframe>
+  <a href="https://tryhackme.com/p/Karlblock"><img src="https://img.shields.io/badge/TryHackMe-Profile-00aa00?style=for-the-badge&logo=tryhackme" alt="TryHackMe" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.root-me.org/?page=user_profils&login=Karlblock"><img src="https://img.shields.io/badge/Root--Me-Profile-ff6b00?style=for-the-badge&logo=root-me" alt="RootMe" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://app.hackthebox.com/profile/Karlblock"><img src="https://img.shields.io/badge/HackTheBox-Profile-9fef00?style=for-the-badge&logo=hackthebox" alt="HackTheBox" /></a>
 </p>
 
 ---
