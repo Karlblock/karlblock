@@ -7,7 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=Karlblock&style=flat&color=red" alt="Compteur de visiteurs" />
   <img src="https://img.shields.io/badge/Focus-Defensive%20Security-blue?style=flat" />
   <img src="https://img.shields.io/badge/Mission-Education%20&%20Protection-green?style=flat" />
-  
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/Karlblock"><img src="https://tryhackme-badges.s3.amazonaws.com/Karlblock.png" alt="TryHackMe" height="100" /></a>
+  <a href="https://www.root-me.org/Karlblock"><img src="https://www.root-me.org/IMG/cache/logo-root-me.png" alt="RootMe" height="100" style="margin: 0 20px;" /></a>
+  <a href="https://app.hackthebox.com/profile/Karlblock"><img src="https://www.hackthebox.eu/badge/image/Karlblock" alt="HackTheBox" height="100" /></a>
 </p>
 
 ---
