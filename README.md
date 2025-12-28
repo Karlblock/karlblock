@@ -18,26 +18,6 @@
 
 ---
 
-## Stack Technologique
-
-### Langages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Shell](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)
-
-### Outils de Sécurité
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?logo=metasploit&logoColor=white&style=for-the-badge)
-![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge)
-
-### Infrastructure
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=for-the-badge)
-
----
-
 ## Statistiques & Activité
 
 <p align="center">
