@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/Karlblock"><img src="https://tryhackme-badges.s3.amazonaws.com/Karlblock.png" alt="TryHackMe" height="100" /></a>
-  <a href="https://www.root-me.org/Karlblock"><img src="https://www.root-me.org/IMG/cache/logo-root-me.png" alt="RootMe" height="100" style="margin: 0 20px;" /></a>
-  <a href="https://app.hackthebox.com/profile/Karlblock"><img src="https://www.hackthebox.eu/badge/image/Karlblock" alt="HackTheBox" height="100" /></a>
+  <a href="https://tryhackme.com/p/Karlblock"><img src="https://img.shields.io/badge/TryHackMe-Profile-00ff00?style=for-the-badge" alt="TryHackMe" /></a>
+  <a href="https://www.root-me.org/Karlblock"><img src="https://img.shields.io/badge/Root--Me-Profile-ff6b00?style=for-the-badge" alt="RootMe" /></a>
+  <a href="https://app.hackthebox.com/profile/Karlblock"><img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge" alt="HackTheBox" /></a>
 </p>
 
 ---
