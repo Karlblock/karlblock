@@ -13,7 +13,7 @@
 ---
 
 ## Lab hack Caen - cybercaen.fr
-- [LABHACKCAEN Caen`](https://labhack.fr)
+- [LABHACK Caen](https://labhack.fr)
 > Resous les challenges dans l'ordre pour progresser !
 
 ---
