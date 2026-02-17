@@ -17,9 +17,9 @@
 
 ---
 
-## Lab hack Caen - cybercaen.fr
-- [LABHACK Caen](https://labhack.fr)
-> Resous les challenges dans l'ordre pour progresser !
+## Lab hack Caen - CaenHackYou.fr
+- [CaenHackYou - Caen](https://caenhackyou.fr)
+> Association Cyber à Caen !
 
 ---
 
